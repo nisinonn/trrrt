@@ -1,0 +1,42 @@
+{
+    "bot1": {
+        "device_id": "1f3c0be06b6649748ecbe8759894dccb",
+        "account_id": "0e22050e63d3445884a6456e3bd6f93a",
+        "secret": "TKHKKP2H24U24SF6HS3O3W55TDZNY76O"
+    },
+    "bot2": {
+        "device_id": "a51e46cf5c474099a3447dd220e3174c",
+        "account_id": "a1a37b1647c04cfcaac12279c5fdef70",
+        "secret": "7SNH2Z4H7OJ2ZDWR2CJPMJ4377ZCJXAC"
+    },
+    "bot3": {
+        "device_id": "4be393aefe5449a2820e03e91453ac28",
+        "account_id": "a7ec1ebfdbc54ee6aca3e123b2250826",
+        "secret": "3OLK5MQGAZQFWDRR7FL6ZYQUSAMJ45N6"
+    },
+    "bot4": {
+        "device_id": "30849951753141b98e662632e7af8fda",
+        "account_id": "2e36e123125340e1a5a379cc0653fa51",
+        "secret": "65J33SPORVSI7KJECDQCRAH6LDG2GCXE"
+    },
+    "bot5": {
+        "device_id": "ec6b1a2bf4a7422f872c30eaf170078a",
+        "account_id": "b48c3211fd844c5d8aaadaf741a8dfe0",
+        "secret": "VIEONNRSRTFE6EF4R2PCYK2BNDGJZB5S"
+    },
+    "bot6": {
+        "device_id": "882fe6d51d6a46b3aaa5fd8def541c3d",
+        "account_id": "681d97700eb447308102e081f69b21cf",
+        "secret": "JVWF3CBKOAXF5OX7P5ZANFJNPF3IRHOK"
+    },
+    "bot7": {
+        "device_id": "8d3c7a22a9894e618531f1d2c55b64c9",
+        "account_id": "45b67b5b014c4298b34181ac96252d41",
+        "secret": "W7GTURLIYXZ2QB3GPLJ5GCIJHAILDX44"
+    },
+    "bot8": {
+        "device_id": "84202817f8894967b8d5cee1ab593ad4",
+        "account_id": "7007fe78bcda4fa980f08331c9a311b8",
+        "secret": "5RCV4OJUJYK24IFTSUXUOLMGZBZAUDS7"
+    }
+}
